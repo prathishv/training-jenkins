@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Mbblab4Application {
 
 	public static void main(String[] args) {
+		System.out.println("My application");
 		SpringApplication.run(Mbblab4Application.class, args);
 	}
 
